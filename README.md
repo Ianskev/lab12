@@ -2,12 +2,6 @@
 
 Este proyecto implementa un sistema de bases de datos distribuidas usando PostgreSQL en contenedores Docker.
 
-## Requisitos previos
-
-- Docker
-- Docker Compose
-- Python 3.x
-
 ## Cómo ejecutar el proyecto
 
 1. Asegúrate de tener todos los archivos en la misma carpeta:
